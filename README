@@ -1,0 +1,3 @@
+CSV reports for SLOC in a git repository, revision wise
+
+You need to download and install Cloc (http://cloc.sourceforge.net/)
